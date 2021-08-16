@@ -1,0 +1,26 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.container-fluid{
+    background: #cef7ff;
+    border: 1px solid black;
+    font-size: 18px;
+}
+.container-fluid ul li{
+    padding: 0 2px;
+    font-weight: 600;
+}
+.container-fluid ul li :hover{
+    background: #02ffff;
+    font-weight: bold;
+}
+#navbarNav{
+    justify-content: center;
+    align-items: center;
+}
+img{
+    margin: 0 12px;
+    padding: 12px;
+    height: 100px;
+}
